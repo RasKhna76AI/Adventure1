@@ -120,9 +120,9 @@ const Home: React.FC = () => {
             className="flex flex-col sm:flex-row gap-6 justify-center"
           >
             <GlowButton size="lg" className="group">
-              Explore Adventures
+              Explore More
               <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
-            </GlowButton>
+            </GlowButton>   
             <GlowButton variant="ghost" size="lg">
               Book Your Trip
             </GlowButton>

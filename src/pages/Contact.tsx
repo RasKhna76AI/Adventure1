@@ -30,13 +30,13 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      content: 'hello@adventurex.com',
+      content: 'hello@adventurebuddy.in',
       description: 'Send us your questions anytime'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      content: '+91 98765 43210',
+      content: '+91 98123 12345',
       description: 'Mon-Sat, 9:00 AM - 6:00 PM'
     },
     {
