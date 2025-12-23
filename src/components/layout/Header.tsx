@@ -44,7 +44,7 @@ const Header: React.FC = () => {
               <Mountain className="w-8 h-8 text-green-500" />
               <div className="absolute -inset-1 bg-green-500/20 rounded-full blur-sm animate-pulse"></div>
             </div>
-            <span className="text-xl font-bold text-white">AdventureX</span>
+            <span className="text-xl font-bold text-white">AdventureBuddy</span>
           </Link>
 
           {/* Desktop Navigation */}

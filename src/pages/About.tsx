@@ -30,7 +30,7 @@ const About: React.FC = () => {
 
   const team = [
     {
-      name: 'Arjun Thakur',
+      name: 'Mandeep Singh',
       role: 'Founder & Lead Guide',
       image: 'https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400',
       experience: '12 years',
@@ -76,7 +76,7 @@ const About: React.FC = () => {
           className="relative z-10 text-center px-4 max-w-4xl mx-auto"
         >
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
-            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">AdventureX</span>
+            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">AdventureBuddy</span>
           </h1>
           <p className="text-xl text-gray-300 leading-relaxed">
             Born from a passion for exploration and a commitment to safety, we've been creating 

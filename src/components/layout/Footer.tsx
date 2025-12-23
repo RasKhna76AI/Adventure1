@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Mountain className="w-8 h-8 text-green-500" />
-              <span className="text-xl font-bold">AdventureX</span>
+              <span className="text-xl font-bold">AdventureBuddy</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Your gateway to extraordinary adventures. We create unforgettable experiences 
@@ -57,11 +57,11 @@ const Footer: React.FC = () => {
             <div className="space-y-3 text-sm">
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-green-500 flex-shrink-0" />
-                <span className="text-gray-400">hello@adventurex.com</span>
+                <span className="text-gray-400">hello@adventurebuddy.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 text-green-500 flex-shrink-0" />
-                <span className="text-gray-400">+91 98765 43210</span>
+                <span className="text-gray-400">+91 98123 12345</span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-4 h-4 text-green-500 flex-shrink-0 mt-0.5" />
@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 AdventureX. All rights reserved.
+              © 2025 AdventureBuddy. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <span className="text-gray-400 hover:text-white cursor-pointer text-sm transition-colors">Privacy Policy</span>
